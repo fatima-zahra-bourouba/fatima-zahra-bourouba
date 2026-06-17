@@ -33,4 +33,4 @@ I am a passionate AI Student focused on bridging the gap between theoretical con
 ## 🤝 Connect with Me
 
 - 💼 **LinkedIn:** [Fatima Zahra BOUROUBA]( https://www.linkedin.com/in/fatima-zahra-student-bourouba-685845343/)
-- 📧 **Email:** [your.email@example.com](fatima.zahra.bourouba@ensia.edu.dz)
+- 📧 **Email:** [fatima.zahra.bourouba](fatima.zahra.bourouba@ensia.edu.dz)
