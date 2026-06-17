@@ -30,15 +30,6 @@ I am a passionate AI Student focused on bridging the gap between theoretical con
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatima-zahra-bourouba&show_icons=true&theme=radical" alt="Your GitHub Stats" height="150" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=fatima-zahra-bourouba&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 - 💼 **LinkedIn:** [Fatima Zahra BOUROUBA]( https://www.linkedin.com/in/fatima-zahra-student-bourouba-685845343/)
